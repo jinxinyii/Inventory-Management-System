@@ -9,8 +9,8 @@ The **Inventory Management System (IMS)** is a backend project built with Python
 - **Programming Language**: Python
 - **Framework**: Django
 - **Database**: PostgreSQL
-- **API**: RESTful API or GraphQL
-- **Authentication**: JWT or OAuth2
+- **API**: RESTful API
+- **Authentication**: JWT
 
 ---
 
@@ -70,8 +70,8 @@ python manage.py runserver
 
 ## 👤 Author
 Elmar T. Panganiban
-📧 pngnbn.elmar@gmail.com
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/elmar-panganiban/)
+- 📧 pngnbn.elmar@gmail.com
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/elmar-panganiban/)
 
 ---
 
