@@ -26,7 +26,25 @@ The **Inventory Management System (IMS)** is a backend project built with Python
 ---
 
 ## 📂 Project Structure
-inventory_management_system/ │ ├── backend/ │ ├── app/ │ │ ├── models/ │ │ ├── views/ │ │ ├── controllers/ │ │ ├── services/ │ │ └── utils/ │ ├── config/ │ ├── routes/ │ ├── tests/ │ └── static/ │ ├── database/ │ ├── migrations/ │ └── seed_data/ │ └── docs/
+inventory_management_system/
+│
+├── backend/
+│   ├── app/
+│   │   ├── models/
+│   │   ├── views/
+│   │   ├── controllers/
+│   │   ├── services/
+│   │   └── utils/
+│   ├── config/
+│   ├── routes/
+│   ├── tests/
+│   └── static/
+│
+├── database/
+│   ├── migrations/
+│   └── seed_data/
+│
+└── docs/
 
 ---
 
